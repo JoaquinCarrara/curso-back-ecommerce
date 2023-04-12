@@ -1,0 +1,24 @@
+[
+    {
+        "titulo": "Televisor",
+        "descripcion": "22 pulgadas",
+        "precio": 2500,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-EbHXg9OKo13CcNavNlmH8TotoaLIh5R8LWtTTAyqWldk7om_bujubG76c1USY39d-EM&usqp=CAU",
+        "code": 2653,
+        "stock": 650,
+        "status": true,
+        "category": "electrodomestico",
+        "id": 1
+    },
+    {
+        "titulo": "Heladera",
+        "descripcion": "con freezer",
+        "precio": 2500,
+        "thumbnail": "https://www.torca.com.ar/thumb/58554-1_800x800.jpg",
+        "code": 2653,
+        "stock": 650,
+        "status": true,
+        "category": "electrodomestico",
+        "id": 1
+    }
+]
